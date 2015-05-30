@@ -1,0 +1,5 @@
+
+class OrderCancel {
+  private Command ;
+
+}
